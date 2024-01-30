@@ -23,7 +23,7 @@ if(isset($_SESSION["userName"])) {
     // Check if the alert session variable is set
     if(isset($_SESSION["alert"])) {
         echo '<div class="alert alert-danger" role="alert">' . $_SESSION["alert"] . '</div>';
-        // Unset the alert session variable
+        // Unset the alert session variables
         unset($_SESSION["alert"]);
     }
     ?>
