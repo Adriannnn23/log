@@ -16,13 +16,7 @@
             width: 100%;
         }
 
-
-
-
-
-
-        
-        .slider-btn {
+          .slider-btn {
             position: absolute;
             top: 50%;
             width: auto;
