@@ -16,6 +16,12 @@
             width: 100%;
         }
 
+
+
+
+
+
+        
         .slider-btn {
             position: absolute;
             top: 50%;
